@@ -10,5 +10,5 @@ See example_test.go for usage.
 
 Installation:
 
-    `go get github.com/realzeitmedia/g2s`
+    `go get github.com/realzeitmedia/g2s2`
 

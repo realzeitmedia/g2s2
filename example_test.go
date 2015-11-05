@@ -1,14 +1,14 @@
-package g2s_test
+package g2s2_test
 
 import (
 	"fmt"
 	"time"
 
-	"github.com/realzeitmedia/g2s"
+	"github.com/realzeitmedia/g2s2"
 )
 
 func Example() {
-	d, err := g2s.DialUDP("1.2.3.4:5678")
+	d, err := g2s2.DialUDP("1.2.3.4:5678")
 	_ = err // ...
 	defer d.Stop()
 

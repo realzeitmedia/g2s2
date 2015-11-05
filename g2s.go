@@ -1,4 +1,4 @@
-package g2s
+package g2s2
 
 import (
 	"bytes"
